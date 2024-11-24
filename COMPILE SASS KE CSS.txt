@@ -1,0 +1,3 @@
+COMPILE SASS KE CSS
+ 1. Cari file SASS dengan 'cmd' lalu mengetikan cd setiap mau masuk ke file yg di tuju
+ 2. lalu cara meng-compilenya ketikan sass sass-input.scss css-output.css atau sass (file sass) (file css)
